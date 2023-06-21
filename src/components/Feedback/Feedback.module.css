@@ -1,0 +1,26 @@
+h2 {
+    margin-bottom: 30px;
+}
+
+.wrapButton {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn {
+    width: 100px;
+    height: 30px;
+    cursor: pointer;
+}
+
+.listStatistics {
+
+    padding-left: 80px;
+}
+
+.titleStatistics {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
