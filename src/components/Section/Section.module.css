@@ -1,0 +1,12 @@
+.title {
+    margin-top: 0;
+    margin-bottom: 30px;
+    font-size: 35px;
+    text-align: center;
+    font-size: 30px;
+
+}
+
+.wrapSection:not(:last-child) {
+    margin-bottom: 20px;
+}
